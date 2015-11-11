@@ -92,3 +92,7 @@ You can download the IR library here: ![Arduino-IRremote](https://github.com/z3t
 	Developed by </br>
   <img alt="Wiser Research Group Logo" src="https://wiki.dcc.ufba.br/pub/SmartUFBA/ProjectLogo/wiserufbalogo.jpg"/> 
 </p>
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/WiserUFBA/ardumideawrapper/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
