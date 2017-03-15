@@ -114,3 +114,7 @@ Developers **Jeferson Lima** (**[@jefersonla](https://github.com/jefersonla)**) 
 	Developed by </br>
   <img alt="Wiser Research Group Logo" src="https://wiki.dcc.ufba.br/pub/SmartUFBA/ProjectLogo/wiserufbalogo.jpg"/> 
 </p>
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/WiserUFBA/ardumideawrapper/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
