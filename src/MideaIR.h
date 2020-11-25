@@ -10,7 +10,12 @@
 #define MideaIR_h
 
 #include <stdint.h>
+#if defined(ESP8266)
+#include <IRremoteESP8266.h>
+#include <IRsend.h>
+#else
 #include <IRremote.h>
+#endif
 
 // Uncomment the following line to use old values for mode and fan speed
 // #define OLD_MIDEA
