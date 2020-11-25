@@ -8,7 +8,12 @@
 */
 #include "MideaIR.h"
 #include <stdint.h>
+#if defined(ESP8266)
+#include <IRremoteESP8266.h>
+#include <IRsend.h>
+#else
 #include <IRremote.h>
+#endif
 
 MideaIR::MideaIR(IRsend *ref){
     /* Initialize the variables with the default values */
